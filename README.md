@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/akochman/springboard_site/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Springboard Content
+https://akochman.github.io/springboard_site/
 
 ## Capstone Project
 1) Machine Learning with Spotify
